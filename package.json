@@ -19,7 +19,7 @@
     "bugs": {
       "url": "https://github.com/emilyarnholt/Tech-Blog/issues"
     },
-    "homepage": "https://github.com/emilyarnholt/Tech-Blog/blob/main/README.md",
+    "homepage": "https://github.com/emilyarnholt/Tech-Blog.git",
     "dependencies": {
       "bcrypt": "^5.0.0",
       "connect-session-sequelize": "^6.1.1",
